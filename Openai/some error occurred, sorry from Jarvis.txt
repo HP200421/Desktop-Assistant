@@ -1,0 +1,8 @@
+OpenAI response for Prompt: some error occurred, sorry from Jarvis 
+ ********************************************************************** 
+
+
+            System.out.println("Some error occurred. Please try after sometime.");
+		} 
+	} 
+}
