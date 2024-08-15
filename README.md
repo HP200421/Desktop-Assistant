@@ -9,5 +9,3 @@ Desktop Assistant is a voice-controlled AI assistant that performs various tasks
 - **Music Playback:** Play a specific music file.
 - **Time Display:** Get the current time.
 - **AI Conversations:** Have interactive conversations with the AI assistant.
-
-
